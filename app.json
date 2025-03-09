@@ -23,6 +23,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "50a0458a-e378-49ae-9fd3-348acb70567b"
+      }
+    },
+    "owner": "victordementa"
   }
 }
